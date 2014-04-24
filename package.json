@@ -1,16 +1,15 @@
 {
-  "author": "Josh David Miller",
+  "author": "Juan G. Hurtado",
   "name": "ngbp",
   "version": "0.3.2",
-  "homepage": "https://github.com/ngbp/ngbp",
+  "homepage": "https://github.com/juanghurtado/ngbp",
   "licenses": {
     "type": "MIT",
-    "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
+    "url": "https://raw.github.com/ngbp/juanghurtado/master/LICENSE"
   },
-  "bugs": "https://github.com/ngbp/ngbp/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ngbp/ngbp.git"
+    "url": "git@github.com:juanghurtado/ngbp.git"
   },
   "dependencies": {},
   "devDependencies": {
