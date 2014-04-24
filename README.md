@@ -1,8 +1,8 @@
-# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://api.travis-ci.org/ngbp/ngbp.png?branch=v0.3.2-release)](https://travis-ci.org/ngbp/ngbp)
+# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate)
 
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
-***
+**
 
 ## Quick Start
 
@@ -17,7 +17,7 @@ $ bower install
 $ grunt watch
 ```
 
-Finally, open `file:///path/to/ng-boilerplate/build/index.html` in your browser.
+Finally, open `http://localhost:9000/` in your browser.
 
 Happy hacking!
 
