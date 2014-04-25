@@ -91,7 +91,6 @@ ng-boilerplate/
   |- vendor/
   |  |- angular-bootstrap/
   |  |- bootstrap/
-  |  |- placeholders/
   |- .bowerrc
   |- bower.json
   |- build.config.js
