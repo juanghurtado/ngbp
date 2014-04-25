@@ -1,8 +1,9 @@
-# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate)
+# ngBoilerplate
 
-An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
-
-**
+An opinionated kickstarter for [AngularJS](http://angularjs.org) projects,
+forked from [Josh David Miller's ngBoilerplate
+project](https://github.com/ngbp/ngbp) with custom modifications to match some
+personal preferences.
 
 ## Quick Start
 
@@ -20,6 +21,9 @@ $ grunt watch
 Finally, open `http://localhost:9000/` in your browser.
 
 Happy hacking!
+
+PS.- Don't forget to install the [EditorConfig plugin](http://editorconfig.org/#download) for your editor, so we can
+maintain consistent coding styles.
 
 ## Purpose
 
