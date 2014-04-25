@@ -39,16 +39,6 @@ module.exports = function ( grunt ) {
     },
 
     /**
-     * Creates a changelog on a new version.
-     */
-    changelog: {
-      options: {
-        dest: 'CHANGELOG.md',
-        template: 'changelog.tpl'
-      }
-    },
-
-    /**
      * Options for the connect task
      */
     connect: {
@@ -58,29 +48,6 @@ module.exports = function ( grunt ) {
           base: '<%= build_dir %>',
           livereload: true
         }
-      }
-    },
-
-    /**
-     * Increments the version number, etc.
-     */
-    bump: {
-      options: {
-        files: [
-          "package.json",
-          "bower.json"
-        ],
-        commit: false,
-        commitMessage: 'chore(release): v%VERSION%',
-        commitFiles: [
-          "package.json",
-          "client/bower.json"
-        ],
-        createTag: false,
-        tagName: 'v%VERSION%',
-        tagMessage: 'Version %VERSION%',
-        push: false,
-        pushTo: 'origin'
       }
     },
 
