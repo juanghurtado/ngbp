@@ -10,7 +10,7 @@ personal preferences.
 Install Node.js and then:
 
 ```sh
-$ git clone git://github.com/joshdmiller/ng-boilerplate
+$ git clone git://github.com/juanghurtado/ngbp
 $ cd ng-boilerplate
 $ sudo npm -g install grunt-cli karma bower
 $ npm install
@@ -152,7 +152,7 @@ from GitHub, or merge the branch into your existing repository. Assuming you're
 starting from scratch, simply clone this repository using git:
 
 ```sh
-$ git clone git://github.com/joshdmiller/ng-boilerplate my-project-name
+$ git clone git://github.com/juanghurtado/ngbp my-project-name
 $ cd my-project-name
 ```
 
